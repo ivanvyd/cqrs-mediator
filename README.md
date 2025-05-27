@@ -1,8 +1,8 @@
-# .NET 7 Custom CQRS and Mediator Web API
+# .NET 8 Custom CQRS and Mediator Web API
 
 ## Overview
 
-This repository hosts a .NET 7 Web API project that demonstrates an advanced implementation of custom Command Query Responsibility Segregation (CQRS) and Mediator patterns. Tailored for minimal APIs in .NET 7, this project showcases a clean and efficient way to building Web APIs using modern approach.
+This repository hosts a .NET 8 Web API project that demonstrates an advanced implementation of custom Command Query Responsibility Segregation (CQRS) and Mediator patterns. Tailored for minimal APIs in .NET 8, this project showcases a clean and efficient way to building Web APIs using modern approach.
 
 By leveraging the CQRS and Mediator patterns, the project provides a clear separation of concerns, enhancing maintainability and allowing for more flexible and optimized interactions.
 
@@ -10,7 +10,7 @@ By leveraging the CQRS and Mediator patterns, the project provides a clear separ
 
 - **Custom CQRS Implementation**: Incorporates a custom CQRS setup, enabling distinct handling of command and query responsibilities.
 - **Mediator Pattern Integration**: Utilizes the Mediator pattern for decoupling the in-process sending of messages, improving code modularity and testability.
-- **Minimal API Design**: Leverages .NET 7's minimal API capabilities for a more streamlined and concise API development experience.
+- **Minimal API Design**: Leverages .NET 8's minimal API capabilities for a more streamlined and concise API development experience.
 
 ## Command Query Responsibility Segregation (CQRS)
 
